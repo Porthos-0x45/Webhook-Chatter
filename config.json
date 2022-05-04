@@ -1,5 +1,7 @@
 {
 	"username": "HACKED YOU",
 	"webhook": "https://discord.com/api/webhooks/971119844852367400/cs2V-vEVZ9yFpAPgwi6CkXgQ_tFeykeFhpau3ojl3hyGqi9jfmm4uJ5ElSILvFvUHLmG",
-	"avatar_url": "https://gdb.rferl.org/70875591-AAE9-4DFC-8ABA-FB1C144CAB98_w1080_h608_s.jpg"
+	"avatar_url": "https://gdb.rferl.org/70875591-AAE9-4DFC-8ABA-FB1C144CAB98_w1080_h608_s.jpg",
+
+	"bot_token": "You dont need this if you dont want to use replies"
 }
