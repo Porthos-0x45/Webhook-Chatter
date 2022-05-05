@@ -36,9 +36,8 @@ def send(message):
 		pass
 
 def help():
-	print ("Helping...")
-	print ("Commands: chat, purge")
-	print ("To execute this commands type run")
+	print (Fore.YELLOW + "Commands: chat, purge",
+			"\nTo run these commands type run")
 	main()
 
 def replies():

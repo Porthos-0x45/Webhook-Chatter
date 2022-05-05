@@ -1,2 +1,2 @@
 # Webhook-Chatter
-Troll and chat with zour firends using this Webhook chatter
+Troll and chat with your firends using this Webhook chatter
